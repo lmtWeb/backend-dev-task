@@ -3,7 +3,7 @@
 <h1>Task:</h1>
 
 <li>Create backend application API for business domain.</li>
-<li>Fork your own copy of backend-dev-task and share the result with us.</li>
+<li>Create your repo (preferablly on Github) for backend-dev-task solution and share it us.</li>
 
 <h2>Requirements:</h2>
 <li>Use PHP 7+</li>
